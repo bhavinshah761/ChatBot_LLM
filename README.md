@@ -2,24 +2,6 @@ Full-Stack Local RAG Chatbot
 
 An enterprise-grade, privacy-first Retrieval-Augmented Generation (RAG) chatbot designed to perform semantic search and question answering over local documents with **100% data privacy**, **zero cloud API costs**, and **zero external data leakage**.
 
----
-
-### 🚀 Key Features
-
-* **100% Local & Private Execution:** Operates entirely offline using open-source models via Ollama (Mistral-7B/Llama 3) and local HuggingFace embeddings—no data ever leaves your machine.
-* **Decoupled Microservice Architecture:** Asynchronous **FastAPI** backend handling RAG orchestration and vector storage querying, paired with an interactive **Streamlit** chat interface.
-* **Grounded Responses with Source Citation:** Retrieves top relevant document chunks from **ChromaDB** to eliminate model hallucinations and provide verifiable source links.
-* **Persistent Vector Storage:** Automatically parses, chunks, and indexes documents (PDFs, Markdown, Text) into high-dimensional vector embeddings stored on disk.
-
----
-
-### 🏗️ Architecture & Technical Workflow
-
-Full-Stack Local RAG Chatbot
-
-An enterprise-grade, privacy-first Retrieval-Augmented Generation (RAG) chatbot designed to perform semantic search and question answering over local documents with **100% data privacy**, **zero cloud API costs**, and **zero external data leakage**.
-
----
 
 ### 🚀 Key Features
 
